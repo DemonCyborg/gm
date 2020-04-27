@@ -1,11 +1,11 @@
 .main {
     
     margin: 0 auto 0;
-    height:26.25rem;
-    width:21.875rem;
+    height:300px;
+    width:500px;
     position: absolute;
-    right: 420px;
-    bottom:350px;
+    right: 26.25rem;
+    bottom:21.875rem;
 }
 h1{
     text-align: center;
